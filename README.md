@@ -1,2 +1,2 @@
 # rag-chatbot-groq-langchain
-A RAG-based chatbot built with LangChain, Groq, ChromaDB, HuggingFace embeddings, and Streamlit for answering questions from PDF documents.
+A RAG-based AI chatbot that answers questions from PDF documents using LangChain, Groq, ChromaDB, and HuggingFace embeddings. It retrieves relevant document content and uses it as context to generate accurate answers.
